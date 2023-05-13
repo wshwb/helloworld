@@ -1,3 +1,3 @@
 # helloworld
-'''
-xmake helloworld
+
+--xmake helloworld
